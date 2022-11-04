@@ -2,7 +2,6 @@
 
 За основу взяты статьи:
 <https://habr.com/ru/post/489534/>
-<https://habr.com/ru/post/122397/>
 
 ## Описание проекта
 
